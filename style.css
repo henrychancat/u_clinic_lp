@@ -181,7 +181,7 @@ body {
   -moz-box-shadow: 0 0 50px 0 rgba(214, 163, 153, 0.1);
   box-shadow: 0 0 50px 0 rgba(214, 163, 153, 0.1); /*drop shadow*/
       width: 100%;
-    
+
     transition: 0.3s all;
     position: fixed;
     top: 0;
@@ -2599,4 +2599,10 @@ body {
 }
 .text-style {
   letter-spacing: 0.04em;
+}
+.pc { display: block !important; }
+.sp { display: none !important; }
+@media only screen and (max-width: 767px) {
+.pc { display: none !important; }
+.sp { display: block !important; }
 }

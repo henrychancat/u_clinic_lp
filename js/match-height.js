@@ -386,3 +386,21 @@
     });
 
 });
+
+
+(function($) {
+    var $window = $(window),
+        $cssSheet = $('#pagestyle');
+
+    function resize() {
+        if ($window.width() < 768) {
+            return document.getElementById("pagestyle").setAttribute("href",'style_sp.css');
+        } else {
+            return document.getElementById("pagestyle").setAttribute("href",'style.css');
+        }
+    }
+
+    $window
+        .resize(resize)
+        .trigger('resize');
+})(jQuery);

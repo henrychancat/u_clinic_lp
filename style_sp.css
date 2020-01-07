@@ -267,7 +267,7 @@ body {
   overflow: hidden;
   position: relative;
   width: 100%; /* 750px / 750px = 100% */
-  background: url(images/pink_3.png) no-repeat center 0;
+  background: url(images/sp/pink_3.png) no-repeat center 0;
   background-position: center top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -278,7 +278,7 @@ body {
   padding: 0 0 70px;
   position: relative;
   width: 100%; /* 750px / 750px = 100% */
-  background: url(images/over.png) no-repeat center 0;
+  background: url(images/sp/over.png) no-repeat center 0;
   background-position: center top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -298,7 +298,7 @@ body {
   position: absolute;
   top: 69px;
   width: 690px;
-  background: url(images/bg_28.png) no-repeat;
+  background: url(images/sp/bg_28.png) no-repeat;
   margin-left: -375px;
 }
 .text-3 {
@@ -451,7 +451,7 @@ body {
   margin: -221px auto 0;
   position: relative;
   width: 750px;
-  background: url(images/bg_32.png) no-repeat;
+  background: url(images/sp/bg_32.png) no-repeat;
 }
 .line-holder-3 {
   left: 50%;
@@ -459,7 +459,7 @@ body {
   position: absolute;
   top: 37px;
   width: 571px;
-  background: url(images/line_14.png) no-repeat;
+  background: url(images/sp/line_14.png) no-repeat;
   margin-left: -375px;
 }
 .text-8 {
@@ -487,7 +487,7 @@ body {
   position: absolute;
   top: 0;
   width: 222px;
-  background: url(images/line_15.png) no-repeat;
+  background: url(images/sp/line_15.png) no-repeat;
   margin-left: 153px;
 }
 .text-9 {
@@ -508,7 +508,7 @@ body {
   position: relative;
   width: 100%; /* 750px / 750px = 100% */
   z-index: 492;
-  background: url(images/bg_25.png) no-repeat center 0;
+  background: url(images/sp/bg_25.png) no-repeat center 0;
   background-position: center top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -578,7 +578,7 @@ body {
   position: relative;
   width: 100%; /* 750px / 750px = 100% */
   z-index: 462;
-  background: url(images/bg_22.png) no-repeat center 0;
+  background: url(images/sp/bg_22.png) no-repeat center 0;
   background-position: center top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -752,7 +752,7 @@ body {
   position: absolute;
   top: 0;
   width: 100%; /* 750px / 750px = 100% */
-  background: url(images/9.png) no-repeat center 0;
+  background: url(images/sp/9.png) no-repeat center 0;
   background-position: center top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -795,7 +795,7 @@ body {
   float: left;
   height: 350px;
   width: 305px;
-  background: url(images/dummy_4.jpg) no-repeat;
+  background: url(images/sp/dummy_4.jpg) no-repeat;
   color: #ffffff;
   font-size: 45px;
   font-weight: bold;
@@ -806,7 +806,7 @@ body {
   float: right;
   height: 350px;
   width: 305px;
-  background: url(images/dummy_3.jpg) no-repeat;
+  background: url(images/sp/dummy_3.jpg) no-repeat;
   color: #ffffff;
   font-size: 45px;
   font-weight: bold;
@@ -913,7 +913,7 @@ body {
   position: absolute;
   top: 3560px;
   width: 100%; /* 750px / 750px = 100% */
-  background: url(images/bg_4.png) no-repeat center 0;
+  background: url(images/sp/bg_4.png) no-repeat center 0;
   background-position: center top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1416,7 +1416,7 @@ body {
   position: absolute;
   top: 220px;
   width: 100%; /* 750px / 750px = 100% */
-  background: url(images/bg_13.png) no-repeat center 0;
+  background: url(images/sp/bg_13.png) no-repeat center 0;
   background-position: center top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1444,7 +1444,7 @@ body {
   position: absolute;
   top: 0;
   width: 690px;
-  background: url(images/bg_16.jpg) no-repeat;
+  background: url(images/sp/bg_16.jpg) no-repeat;
   -webkit-box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.1); /*drop shadow*/
@@ -1580,7 +1580,7 @@ body {
 .ttl-2 {
   position: relative;
   width: 100%; /* 750px / 750px = 100% */
-  background: url(images/bg_pink.png) no-repeat center 0;
+  background: url(images/sp/bg_pink.png) no-repeat center 0;
   background-position: center top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1590,7 +1590,7 @@ body {
 .gray-holder {
   position: relative;
   width: 100%; /* 750px / 750px = 100% */
-  background: url(images/gray.png) no-repeat center 0;
+  background: url(images/sp/gray.png) no-repeat center 0;
   background-position: center top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1601,7 +1601,7 @@ body {
   padding: 61px 0 44px;
   position: relative;
   width: 100%; /* 750px / 750px = 100% */
-  background: url(images/pink_2.png) no-repeat center 0;
+  background: url(images/sp/pink_2.png) no-repeat center 0;
   background-position: center top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1616,7 +1616,7 @@ body {
   height: 953px;
   margin: 40px 0 0;
   position: relative;
-  background: url(images/bg_17.jpg) no-repeat center 0;
+  background: url(images/sp/bg_17.jpg) no-repeat center 0;
   background-position: 0 0;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1636,7 +1636,7 @@ body {
   position: relative;
   width: 606px;
   z-index: 412;
-  background: url(images/bg_20.png) no-repeat;
+  background: url(images/sp/bg_20.png) no-repeat;
 }
 .text-68 {
   margin: 0 34px;
@@ -1684,7 +1684,7 @@ body {
   position: relative;
   width: 611px;
   z-index: 406;
-  background: url(images/bg_19.png) no-repeat;
+  background: url(images/sp/bg_19.png) no-repeat;
 }
 .text-71 {
   color: #fa8282;
@@ -1729,7 +1729,7 @@ body {
   position: relative;
   width: 610px;
   z-index: 400;
-  background: url(images/bg_18.png) no-repeat;
+  background: url(images/sp/bg_18.png) no-repeat;
 }
 .text-74 {
   margin: 0 0 0 37px;
@@ -1771,7 +1771,7 @@ body {
   margin: 0 auto;
   position: relative;
   width: 100%; /* 750px / 750px = 100% */
-  background: url(images/pink.png) no-repeat center 0;
+  background: url(images/sp/pink.png) no-repeat center 0;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1781,7 +1781,7 @@ body {
   padding: 182px 0 2px;
   position: relative;
   width: 100%; /* 750px / 750px = 100% */
-  background: url(images/bg_5.png) no-repeat center 0;
+  background: url(images/sp/bg_5.png) no-repeat center 0;
   background-position: center top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1829,7 +1829,7 @@ body {
   position: relative;
   width: 100%; /* 750px / 750px = 100% */
   z-index: 6;
-  background: url(images/bg.png) no-repeat center 0;
+  background: url(images/sp/bg.png) no-repeat center 0;
   background-position: center top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1878,7 +1878,7 @@ body {
 .text-80 {
   color: #47d4a7;
   font-family: A1MinchoStd, serif;
-  font-size: 50px;
+  font-size: 40px;
   font-weight: 900;
   letter-spacing: 0;
 }
@@ -2138,7 +2138,7 @@ body {
 .input-text-3 {
   float: left;
   height: 80px;
-  margin: 0 25px 0 0;
+  margin: 0 20px 0 0;
   width: 120px;
   border: 2px solid #999999; /*stroke*/
   background: #ffffff;
@@ -2601,7 +2601,7 @@ body {
   position: relative;
   width: 359px;
   z-index: 3;
-  background: url(images/logo.png) no-repeat;
+  background: url(images/sp/logo.png) no-repeat;
 }
 .text-style-3 {
   font-size: 28.8px;
@@ -2620,4 +2620,10 @@ body {
 }
 .text-style {
   letter-spacing: 0.04em;
+}
+.pc { display: block !important; }
+.sp { display: none !important; }
+@media only screen and (max-width: 767px) {
+.pc { display: none !important; }
+.sp { display: block !important; }
 }
