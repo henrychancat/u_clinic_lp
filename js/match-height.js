@@ -394,8 +394,18 @@
 
     function resize() {
         if ($window.width() < 768) {
+            if (document.body) {
+                document.body.style.zoom = $window.width()/750
+            }
             return document.getElementById("pagestyle").setAttribute("href",'style_sp.css');
         } else {
+            if (document.body) {
+            if ($window.width() / 1448 >= 1) {
+              document.body.style.zoom = "100%"  
+            } else {
+              document.body.style.zoom = $window.width() / 1448
+            }
+            }
             return document.getElementById("pagestyle").setAttribute("href",'style.css');
         }
     }
@@ -404,3 +414,18 @@
         .resize(resize)
         .trigger('resize');
 })(jQuery);
+
+$('body').ready(function() {
+ var $window = $(window)
+   if ($window.width() < 768) {
+            document.body.style.zoom = $window.width()/750
+        } else {
+            if ($window.width() / 1448 >= 1) {
+              document.body.style.zoom = "100%"  
+            } else {
+              document.body.style.zoom = $window.width() / 1448
+            }
+            
+            
+        }
+});
